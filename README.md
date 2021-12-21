@@ -1,6 +1,6 @@
 Thanks for taking the time to checkout a selection of my work with [Theorem LTS](https://github.com/theoremlegal)! Given that their repositories are private, I've copied a selection of tickets and a PR I wrote as I was preparing to end my contract.
 
-Refer to the [issues](https://github.com/GreysonElkins/example-pr-and-tickets/issues) in this repo for a sense of how I approach documenting projects in process. The other `md` files in this directory are examples of pull-requests that were successfully merged into production.
+Refer to the [issues](https://github.com/GreysonElkins/example-pr-and-tickets/issues) in this repo for a sense of how I approach documenting projects in process. The **other `md` files in this directory are examples of pull-requests that were successfully merged into production**.
 
 When I began with Theorem, the platform had hard-coded checks for a single user account belonging to our CEO. This allowed him to log into the platform and create/edit products without being part of any vendor organization, and while it helped speed up the process of getting content into our marketplace, it caused bugs and ultimately wasn't the solution we hoped for long term. 
 
