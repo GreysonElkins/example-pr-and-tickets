@@ -1,5 +1,7 @@
 Thanks for taking the time to checkout a selection of my work with [Theorem LTS](https://github.com/theoremlegal)! Given that their repositories are private, I've copied a selection of tickets and a PR I wrote as I was preparing to end my contract.
 
+Refer to the [issues](https://github.com/GreysonElkins/example-pr-and-tickets/issues) in this repo for a sense of how I approach documenting projects in process. The other `md` files in this directory are examples of pull-requests that were successfully merged into production.
+
 When I began with Theorem, the platform had hard-coded checks for a single user account belonging to our CEO. This allowed him to log into the platform and create/edit products without being part of any vendor organization, and while it helped speed up the process of getting content into our marketplace, it caused bugs and ultimately wasn't the solution we hoped for long term. 
 
 As my contract was coming to an end, I began addressing the issue below and taking notes on a solution that would maintain the features built on the `DO NOT DELETE organization`. By referring instead to a new USER_ROLE, we were able to take the abilities of our CEO's account and apply them to any account. (The result also lended itself to some pretty exciting debugging/developer tools)
